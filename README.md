@@ -4,9 +4,11 @@
 
 git clone https://github.com/ultralytics/yolov5v
 
-sudo mv yolov5TrackDemo/mask_inference.py yolov5/
+git https://github.com/funpi89/yolov5_mask.git
 
-sudo mv yolov5TrackDemo/yolov5_mask.pt yolov5/
+sudo mv yolov5_mask/mask_inference.py yolov5/
+
+sudo mv yolov5_mask/yolov5_mask.pt yolov5/
 
 cd yolov5
 
