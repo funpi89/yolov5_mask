@@ -1,6 +1,7 @@
 # yolov5 訓練口罩偵測與inference
 
 * reference: https://github.com/ultralytics/yolov5
+* dataset: https://www.kaggle.com/andrewmvd/face-mask-detection
 
 git clone https://github.com/ultralytics/yolov5v
 
